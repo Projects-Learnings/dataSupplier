@@ -1,0 +1,165 @@
+{
+  "recipes": [
+    {
+      "id": "3",
+      "title": "Chicken Fajitas",
+      "ingredients": [
+        "500g Chicken breast",
+        "1 Red pepper",
+        "1 Green pepper",
+        "1 tsp Cumin",
+        "1 tsp Paprika",
+        "1 tsp Chili powder",
+        "4 Tortillas"
+      ],
+      "method": "1. Slice the chicken and vegetables. 2. Mix the cumin, paprika, and chili powder together and coat the chicken. 3. Cook the chicken in a pan until browned. 4. Add the vegetables to the pan and cook until softened. 5. Serve the chicken and vegetables in tortillas.",
+      "cookingTime": "30 minutes"
+    },
+        "1 Onion",
+    {
+      "id": "4",
+      "title": "Spaghetti Bolognese",
+      "ingredients": [
+        "500g Beef mince",
+        "1 Onion",
+        "2 Garlic cloves",
+        "1 Carrot",
+        "1 Celery stick",
+        "400g Chopped tomatoes",
+        "2 tbsp Tomato puree",
+        "1 tsp Oregano",
+        "1 tsp Basil",
+        "200g Spaghetti"
+      ],
+      "method": "1. Cook the beef mince in a pan until browned. 2. Add the onion, garlic, carrot, and celery to the pan and cook until softened. 3. Add the chopped tomatoes, tomato puree, oregano, and basil to the pan and simmer for 20 minutes. 4. Cook the spaghetti according to package instructions. 5. Serve the spaghetti with the Bolognese sauce on top.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Vegetable Curry",
+      "ingredients": [
+        "1 Onion",
+        "2 Garlic cloves",
+        "1 tsp Ginger",
+        "1 tsp Turmeric",
+        "1 tsp Cumin",
+        "1 tsp Coriander",
+        "1 Carrot",
+        "1 Potato",
+        "1 Sweet potato",
+        "400ml Coconut milk"
+      ],
+      "method": "1. Cook the onion, garlic, and ginger in a pan until softened. 2. Add the turmeric, cumin, and coriander to the pan and cook for 1 minute. 3. Add the carrot, potato, and sweet potato to the pan and cook for 5 minutes. 4. Add the coconut milk to the pan and simmer for 20 minutes. 5. Serve the curry with rice.",
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Beef Stir Fry",
+      "ingredients": [
+        "500g Beef strips",
+        "1 Red pepper",
+        "1 Onion",
+        "1 Carrot",
+        "1 Broccoli head",
+        "2 tbsp Soy sauce",
+        "1 tbsp Honey",
+        "1 tsp Ginger"
+      ],
+      "method": "1. Cook the beef strips in a pan until browned. 2. Add the vegetables to the pan and cook until softened. 3. Mix the soy sauce, honey, and ginger together and add to the pan. 4. Cook for an additional 2 minutes. 5. Serve the stir fry with rice or noodles.",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Chicken Parmesan",
+      "ingredients": [
+        "4 Chicken breasts",
+        "1 cup Flour",
+        "2 Eggs",
+        "2 cups Breadcrumbs",
+        "1 cup Marinara sauce",
+        "1 cup Mozzarella cheese",
+        "1/4 cup Parmesan cheese"
+      ],
+      "method": "1. Preheat the oven to 200C/3C/gas 5. 2. Coat the chicken breasts in flour, then dip in beaten eggs, and then coat in breadcrumbs. 3. Cook the chicken in a pan until browned on both sides. 4. Top each chicken breast with marinara sauce, mozzarella cheese, and Parmesan cheese. 5. Bake in the oven for 20 minutes.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "8",
+      "title": "Vegetable Lasagna",
+      "ingredients": [
+        "1 Onion",
+        "2 Garlic cloves",
+        "1 Carrot",
+        "1 Zucchini",
+        "1 Eggplant",
+        "400g Chopped tomatoes",
+        "1 tsp Oregano",
+        "1 tsp Basil",
+        "200g Lasagna sheets",
+        "500g Ricotta cheese",
+        "1 cup Mozzarella cheese"
+      ],
+      "method": "1. Cook the onion and garlic in a pan until softened. 2. Add the carrot, zucchini, and eggplant to the pan and cook for 5 minutes. 3. Add the chopped tomatoes, oregano, and basil to the pan and simmer for 20 minutes. 4. Layer the lasagna sheets, vegetable mixture, and ricotta cheese in a baking dish. 5. Top with mozzarella cheese and bake in the oven for 30 minutes.",
+      "cookingTime": "1 hour 15 minutes"
+    },
+    {
+      "id": "9",
+      "title": "Salmon with Lemon and Dill",
+      "ingredients": [
+        "4 Salmon fillets",
+        "1 Lemon",
+        "1 tsp Dill",
+        "1 tbsp Olive oil",
+        "Salt and pepper"
+      ],
+      "method": "1. Preheat the oven to 200C/3C/gas 5. 2. Season the salmon fillets with salt, pepper, and dill. 3. Drizzle with olive oil and top with lemon slices. 4. Bake in the oven for 20 minutes.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "10",
+      "title": "Vegetable Fried Rice",
+      "ingredients": [
+        "2 cups Cooked rice",
+        "1 Onion",
+        "1 Carrot",
+        "1 cup Frozen peas",
+        "2 Eggs",
+        "2 tbsp Soy sauce",
+        "1 tbsp Sesame oil"
+      ],
+      "method": "1. Cook the onion and carrot in a pan until softened. 2. Add the frozen peas to the pan and cook for 3 minutes. 3. Add the cooked rice to the pan and stir well. 4. Push the rice to one side of the pan and scramble the eggs in the other side. 5. Mix the eggs into the rice and add the soy sauce and sesame oil. 6. Cook for an additional 2 minutes.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "11",
+      "title": "Chicken Quesadillas",
+      "ingredients": [
+        "2 Chicken breasts",
+        "1 Red pepper",
+        "1 Onion",
+        "1 tsp Cumin",
+        "1 tsp Paprika",
+        "1 tsp Chili powder",
+        "4 Tortillas",
+        "1 cup Cheddar cheese"
+      ],
+      "method": "1. Cook the chicken in a pan until browned. 2. Add the red pepper and onion to the pan and cook until softened. 3. Mix the cumin, paprika, and chili powder together and coat the chicken and vegetables. 4. Place a tortilla in a pan and top with the chicken and vegetable mixture and cheese. 5. Top with another tortilla and cook until the cheese is melted and the tortilla is crispy.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "12",
+      "title": "Vegetable Stir Fry",
+      "ingredients": [
+        "1 Broccoli head",
+        "1 Carrot",
+        "1 Red pepper",
+        "1 Onion",
+        "2 tbsp Soy sauce",
+        "1 tbsp Honey",
+        "1 tsp Ginger"
+      ],
+      "method": "1. Cook the broccoli, carrot, red pepper, and onion in a pan until softened. 2. Mix the soy sauce, honey, and ginger together and add to the pan. 3. Cook for an additional 2 minutes. 4. Serve the stir fry with rice or noodles.",
+      "cookingTime": "25 minutes"
+    }
+  ]
+}
